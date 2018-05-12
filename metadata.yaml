@@ -1,0 +1,40 @@
+_repo: Edmund-Dulac-s-Picture-Book-for-the-French-Red-Cross_45907
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 45907-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Dulac, Edmund
+    alias: Dulac, Edmond
+    birthdate: 1882
+    deathdate: 1953
+    gutenberg_agent_id: '7657'
+    url: http://www.gutenberg.org/2009/agents/7657
+    wikipedia: http://en.wikipedia.org/wiki/Edmund_Dulac
+description: ''
+gutenberg_issued: '2014-06-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45907'
+  lccn: '16006532'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fairy tales'
+- !lcc 'PZ'
+tableOfContents: 'The story of the bird Feng: a fairy tale from China -- Young Rousselle:
+  a French song of the olden time -- Laylá and Majnún: a Persian love story -- The
+  nightingale: after a fairy tale by Hans Andersen -- Three kings of Orient: a carol
+  -- Sindbad, the sailor: a tale from the Thousand and One Nights -- The little seamstress:
+  a French song of the olden time -- The real princess: after a fairy tale by Hans
+  Andersen -- My Lisette: an old French song -- Cinderella: a fairy tale from the
+  French -- The chilly lover: a song from the French -- The story of Aucassin and
+  Nicolette: an Old World idyll -- Blue Beard: an old tale from the French -- Cerberus,
+  the black dog of Hades -- The Lady Badoura: a tale from the Thousand and One Nights
+  -- The sleeper awakened: a tale from the Thousand and One Nights -- Jusef and Asenath:
+  a love story of Egypt.'
+title: Edmund Dulac's Picture-Book for the French Red Cross
+url: http://www.gutenberg.org/ebooks/45907
